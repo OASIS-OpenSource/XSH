@@ -18,7 +18,7 @@ echo "  \  // __| |_| |"
 echo "  /  \\__  \  _  |"
 echo -e " /_/\_\___/_| |_|$cyan $version"
 echo -e "$green Xtended Social Hacking Framework"
-echo -e "$red [$blue!$red]$blue Educational purposes ONLY!>
+echo -e "$red [$blue!$red]$blue Educational purposes ONLY! $end"
 
 #functions
 test () {
