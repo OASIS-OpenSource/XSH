@@ -1,2 +1,11 @@
 # XSH
-Xtended Social Hacking Framework
+
+## Xtended Social Hacking Framework
+
+tested on:
+
+- `Replit`
+
+- `Ubuntu`
+
+- `Termux`
