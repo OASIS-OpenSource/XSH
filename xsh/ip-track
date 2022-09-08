@@ -1,7 +1,0 @@
-#clear
-clear
-
-#prompt
-read -p "input target ip: " ip
-
-curl ipinfo.io/$ip
