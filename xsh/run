@@ -20,7 +20,7 @@ echo " ░░   ░▒ ░   ░ ░▒  ░ ░    ▒ ░▒░ ░"
 echo "  ░    ░     ░  ░  ░      ░  ░░ ░"
 echo -e "  ░    ░           ░      ░  ░  ░$cyan $version"
 echo -e "$green Xtended Social Hacking Framework"
-echo -e "$red [$blue!$red]$blue Created by Valhallaboi and>
+echo -e "$red [$blue!$red]$blue Created by Valhallaboi and OASIS $end"
 
 #functions
 check () {
