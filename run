@@ -30,7 +30,7 @@ check () {
 }
 
 ipLookUp () {
-  ./ip-track
+  bash ip-track
 }
 
 #options
