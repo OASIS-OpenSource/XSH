@@ -2,7 +2,6 @@
 clear
 chmod +x run
 chmod +x ip-track
-mv ./ ../xsh/
 
 #variables
 version="0.0.1"
@@ -23,7 +22,7 @@ echo -e "$red [$blue!$red]$blue Educational purposes ONLY! $end"
 
 #functions
 test () {
-  ./run
+  bash run
 }
 
 #confirm
